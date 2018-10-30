@@ -1,2 +1,13 @@
+#dependencies
 node_modules
 package-lock.json
+yarn.lock
+
+#ide
+.idea
+
+#log
+yarn-error.log
+
+#prod
+dist
